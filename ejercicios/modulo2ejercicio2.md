@@ -5,5 +5,5 @@ Tras ver los videos sobre musica, leds y motores, hemos usado la extension maque
 - [RGB](/archivos/)
 - [Ambos](/archivos/)
 
-- [Botones, musica y leds](https://youtu.be/0C2lrZdCDIc](https://www.youtube.com/watch?v=oUtcqfuMcIA&feature=youtu.be)
+- [Botones, musica y leds](https://www.youtube.com/watch?v=oUtcqfuMcIA&feature=youtu.be)
 - [Motores y leds](https://www.youtube.com/watch?v=VSGiUIvsay8&feature=youtu.be)
