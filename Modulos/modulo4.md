@@ -1,6 +1,6 @@
 # Modulo 4
 
-## Crea tu propio proyecto
+## Ampliaci
 
 - [Ejercico 1](/ejercicios/modulo4ejercicio1.md)
 
