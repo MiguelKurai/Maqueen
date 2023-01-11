@@ -2,4 +2,4 @@ Nuestro robot medirá, con el sensor de ultrasonidos, la distancia a la que se e
 
 [Vídeo]()
 
-[Código Ultrasonidos]()
+[Código Ultrasonidos](/archivos/microbit-Luz-y-sonido.hex)
