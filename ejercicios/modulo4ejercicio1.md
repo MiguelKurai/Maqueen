@@ -2,3 +2,5 @@ Hemos programado el robot para que atienda las órdenes que se le mandan con otr
 
 
 [Vídeo de ejemplo](https://youtu.be/Ze02I5bga1w)
+[Codigo Mando](/archivos/microbit-Mando.hex)
+[Codigo Maqueen](/archivos/microbit-Mando2.hex)
