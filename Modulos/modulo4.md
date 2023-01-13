@@ -9,3 +9,5 @@
 - [Ejercicio 3](/ejercicios/modulo4ejercicio3.md)
 
 - [Ejercicio 4](/ejercicios/modulo4ejercicio4.md)
+
+- [Ejercicio 5](/ejercicios/modulo4ejercicio5.md)
