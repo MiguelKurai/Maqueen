@@ -2,4 +2,4 @@ El robot andará sobre una línea y, cuando se separe de ésta, sus sensores det
 
 [Vídeo](https://youtu.be/9QNZMJpgcRM)
 
-[Código]
+[Código](archivos/microbit-Siguelineas.hex)
