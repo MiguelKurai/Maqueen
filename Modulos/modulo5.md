@@ -6,4 +6,4 @@ Añadido a estos movimientos, le hemos introducido movimientos más complejos, s
 
 [Vídeo funcionamiento]()
 
-[Código]()
+[Código](/archivos/microbit-proyecto-final.hex)
