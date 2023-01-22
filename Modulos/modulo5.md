@@ -4,6 +4,6 @@ El robot dispone de los movimientos básicos, avanzando hacia adelante si pulsas
 
 Añadido a estos movimientos, le hemos introducido movimientos más complejos, siendo el botón 1 para que avance y gire automáticamente después de unos segundoss, el botón 3 para que haga un baile y el botón 6 para que avance a mayor velocidad que de normal.
 
-[Vídeo funcionamiento]()
+[Vídeo funcionamiento](https://youtu.be/ZQy5qMLm6tE)
 
 [Código](/archivos/microbit-proyecto-final.hex)
